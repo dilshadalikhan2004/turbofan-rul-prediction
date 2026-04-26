@@ -143,6 +143,7 @@ if rf_model is None:
 sample_paths = [
     f"data/processed/{subset}_test_features.csv",
     f"../data/processed/{subset}_test_features.csv",
+    f"models/{subset}_test_features.csv", # User uploaded data to models/
     f"{subset}_test_features.csv" # Root directory fallback
 ]
 
