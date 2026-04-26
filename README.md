@@ -19,6 +19,14 @@ This project transforms the standard CMAPSS dataset into a production-ready rese
 - **Noise Injection Suite**: Simulate Gaussian noise, sensor dropout, drift, and outlier spikes.
 - **Interactive Dashboard**: Premium Plotly/JS dashboard for real-time performance visualization.
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Overview](./docs/images/dashboard_overview.png)
+*Figure 1: Real-time RUL tracking and health monitoring dashboard.*
+
+![Simulation Controls](./docs/images/sidebar_controls.png)
+*Figure 2: Stress-test laboratory with noise injection and scenario selection.*
+
 ---
 
 ## 📊 Research Benchmark Results
