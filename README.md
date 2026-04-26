@@ -91,8 +91,8 @@ turbofan-rul-prediction/
 ## 📜 Findings
 Detailed research analysis, including hardware requirements and deployment strategies, can be found in [results/findings.md](./results/findings.md).
 
-## 🚀 Deployment
-This model is ready for deployment to **HuggingFace Spaces** using Streamlit. See `huggingface_deploy/` for assets.
+## Dashboard 
+<img width="1486" height="671" alt="Screenshot 2026-04-26 142900" src="https://github.com/user-attachments/assets/1d898f06-5060-4b45-b5c7-e3e0b3e66dee" />
+<img width="1498" height="707" alt="Screenshot 2026-04-26 142851" src="https://github.com/user-attachments/assets/21f323be-bbdd-4d0f-b912-a96ff3a98e84" />
+<img width="1915" height="602" alt="Screenshot 2026-04-26 142843" src="https://github.com/user-attachments/assets/a9ebc1e5-4271-4b12-bff8-73959ea4f3ce" />
 
----
-*Created by Antigravity AI Assistant.*
